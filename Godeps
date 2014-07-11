@@ -1,0 +1,41 @@
+{
+	"ImportPath": "github.com/longnguyen11288/gopher-data",
+	"GoVersion": "go1.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/bitly/go-hostpool",
+			"Rev": "fed86fae5cacdc77e7399937e2f8836563620a2e"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry-community/go-cfenv",
+			"Comment": "v1.3-12-ga8ee390",
+			"Rev": "a8ee39047929b383cf4edeb8cb16a27cddea77be"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1",
+			"Rev": "37d7f8432a3e684eef9b2edece76bdfa6ac85b39"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0",
+			"Rev": "49411a5b646861ad29a6ddd5351717a0a9c49b94"
+		},
+		{
+			"ImportPath": "github.com/longnguyen11288/elastigo/api",
+			"Rev": "e668f38df1b882d3e4dbdada4ef31d6ee4a30bb3"
+		},
+		{
+			"ImportPath": "github.com/longnguyen11288/elastigo/core",
+			"Rev": "e668f38df1b882d3e4dbdada4ef31d6ee4a30bb3"
+		},
+		{
+			"ImportPath": "github.com/longnguyen11288/elastigo/indices",
+			"Rev": "e668f38df1b882d3e4dbdada4ef31d6ee4a30bb3"
+		},
+		{
+			"ImportPath": "github.com/mitchellh/mapstructure",
+			"Rev": "6fb2c832bcac61d01212ab1d172f7a14a8585b07"
+		}
+	]
+}
